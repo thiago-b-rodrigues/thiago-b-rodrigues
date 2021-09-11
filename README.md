@@ -1,8 +1,8 @@
-<h1>👋 Hello, world! Eu sou Thiago</h1>
+<h1>👋 Hello, world! Eu me chamo Thiago</h1>
 <h3>📝 Atualmente sou estudante de programação rumo ao desenvolvimento Web</h3>
 
 - 🔭 No momento estou envolvido num projeto pessoal o [Lilo](https://github.com/davi-cade/lilo)
-- 🌱 Atualmente estou aprendendo **Node.js e Angular**
+- 🌱 Atualmente estou aprendendo **Node.js**
 - 📻 Um apaixonado(apenas ouvinte) por **música**
 
 
